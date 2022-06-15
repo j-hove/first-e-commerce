@@ -1,0 +1,1127 @@
+.navbar-styles {
+    background-color: white;
+    position:fixed;
+    z-index:1;
+    width: 100%;
+}
+#button-addon2 {
+    background-color: maroon;
+}
+
+.left-menu-ads-style {
+    height: 350px;
+    
+}
+
+.block-title {
+    border-bottom: 2px solid maroon;
+    padding: 5px 20px;
+    border-radius: 25px;
+    font-size: 25px;
+}
+
+.theme-color {
+    background-color: maroon;
+    color: white;
+
+}
+
+.theme-color a {
+    color: white;
+    text-decoration: none;
+}
+
+.link-collections {
+    text-decoration: none;
+    color: black;
+}
+
+.link-collections:hover {
+    color: maroon;
+}
+
+.button-style  { 
+    color: maroon;
+    background-color: white;
+    text-decoration: none;
+    border: 1px solid white;
+}
+
+.button-style:hover  { 
+    
+    background-color: maroon;
+    color: white;
+}
+
+.header-style {
+    color:maroon;
+}
+
+#breadcrumb-styles a {
+  color: white;
+  text-decoration: none;
+}
+
+
+.accordion-button:not(.collapsed) {
+  background-color: white;
+  border: 0px solid white;
+  color: maroon;
+}
+
+ul, a {
+  text-decoration: none;
+  list-style: none;
+  color: maroon;
+}
+
+
+ul:hover a:hover {
+  color: black;
+}
+
+
+.shop-account-style {
+  color: black;
+  text-decoration: none;
+}
+
+.shop-account-style:hover {
+  color: maroon;
+}
+
+.footer-style a:hover {
+  color: maroon;
+  text-decoration: none;
+}
+
+.btn-submit-style {
+  background-color: maroon;
+  color: white;
+
+}
+
+.btn-submit-style:hover {
+  background-color: white;
+  color: maroon;
+  border: 1px solid maroon;
+}
+
+.navbar-styles {
+            background-color: white;
+            position:fixed;
+            z-index:1;
+            width: 100%;
+        }
+        #button-addon2 {
+            background-color: maroon;
+        }
+        
+        .left-menu-ads-style {
+            height: 350px;
+            
+        }
+
+        .block-title {
+            border-bottom: 2px solid maroon;
+            padding: 5px 20px;
+            border-radius: 25px;
+            font-size: 25px;
+        }
+
+        .theme-color {
+            background-color: maroon;
+            color: white;
+
+        }
+
+        .theme-color a {
+            color: white;
+            text-decoration: none;
+        }
+
+        .link-collections {
+            text-decoration: none;
+            color: black;
+        }
+
+        .link-collections:hover {
+            color: maroon;
+        }
+
+        .button-style  { 
+            color: maroon;
+            background-color: white;
+            text-decoration: none;
+            border: 1px solid white;
+        }
+
+        .button-style:hover  { 
+            
+            background-color: maroon;
+            color: white;
+        }
+
+        .header-style {
+            color:maroon;
+        }
+
+        #breadcrumb-styles a {
+          color: white;
+          text-decoration: none;
+        }
+
+
+        .accordion-button:not(.collapsed) {
+          background-color: white;
+          border: 0px solid white;
+          color: maroon;
+        }
+
+        ul, a {
+          text-decoration: none;
+          list-style: none;
+          color: maroon;
+        }
+
+
+        ul:hover a:hover {
+          color: black;
+        }
+
+
+        .shop-account-style {
+          color: black;
+          text-decoration: none;
+        }
+
+        .shop-account-style:hover {
+          color: maroon;
+        }
+
+        .footer-style a:hover {
+          color: maroon;
+          text-decoration: none;
+        }
+
+        .btn-submit-style {
+          background-color: maroon;
+          color: white;
+
+        }
+
+        .btn-submit-style:hover {
+          background-color: white;
+          color: maroon;
+          border: 1px solid maroon;
+        }
+        .navbar-styles {
+            background-color: white;
+            position:fixed;
+            z-index:1;
+            width: 100%;
+        }
+        #button-addon2 {
+            background-color: maroon;
+        }
+        
+        .left-menu-ads-style {
+            height: 350px;
+            
+        }
+
+        .block-title {
+            border-bottom: 2px solid maroon;
+            padding: 5px 20px;
+            border-radius: 25px;
+            font-size: 25px;
+        }
+
+        .theme-color {
+            background-color: maroon;
+            color: white;
+
+        }
+
+        .theme-color a {
+            color: white;
+            text-decoration: none;
+        }
+
+        .link-collections {
+            text-decoration: none;
+            color: black;
+        }
+
+        .link-collections:hover {
+            color: maroon;
+        }
+
+        .button-style  { 
+            color: maroon;
+            background-color: white;
+            text-decoration: none;
+            border: 1px solid white;
+        }
+
+        .button-style:hover  { 
+            
+            background-color: maroon;
+            color: white;
+        }
+
+        .header-style {
+            color:maroon;
+        }
+
+        #breadcrumb-styles a {
+          color: white;
+          text-decoration: none;
+        }
+
+
+        .accordion-button:not(.collapsed) {
+          background-color: white;
+          border: 0px solid white;
+          color: maroon;
+        }
+
+        .shop-account-style {
+          color: black;
+          text-decoration: none;
+        }
+
+        .shop-account-style:hover {
+          color: maroon;
+        }
+
+        .footer-style a:hover {
+          color: maroon;
+          text-decoration: none;
+        }
+
+        .btn-submit-style {
+          background-color: maroon;
+          color: white;
+
+        }
+
+        .btn-submit-style:hover {
+          background-color: white;
+          color: maroon;
+          border: 1px solid maroon;
+        }
+
+        .navbar-styles {
+            background-color: white;
+            position:fixed;
+            z-index:1;
+            width: 100%;
+        }
+        #button-addon2 {
+            background-color: maroon;
+        }
+        
+        .left-menu-ads-style {
+            height: 350px;
+            
+        }
+
+        .block-title {
+            border-bottom: 2px solid maroon;
+            padding: 5px 20px;
+            border-radius: 25px;
+            font-size: 25px;
+        }
+
+        .theme-color {
+            background-color: maroon;
+            color: white;
+
+        }
+
+        .theme-color a {
+            color: white;
+            text-decoration: none;
+        }
+
+        .link-collections {
+            text-decoration: none;
+            color: black;
+        }
+
+        .link-collections:hover {
+            color: maroon;
+        }
+
+        .button-style  { 
+            color: maroon;
+            background-color: white;
+            text-decoration: none;
+            border: 1px solid white;
+        }
+
+        .button-style:hover  { 
+            
+            background-color: maroon;
+            color: white;
+        }
+
+        .header-style {
+            color:maroon;
+        }
+
+        #breadcrumb-styles a {
+          color: white;
+          text-decoration: none;
+        }
+
+
+        .accordion-button:not(.collapsed) {
+          background-color: white;
+          border: 0px solid white;
+          color: maroon;
+        }
+
+
+        .shop-account-style {
+          color: black;
+          text-decoration: none;
+        }
+
+        .shop-account-style:hover {
+          color: maroon;
+        }
+
+        .footer-style a:hover {
+          color: maroon;
+          text-decoration: none;
+        }
+
+        .btn-submit-style {
+          background-color: maroon;
+          color: white;
+
+        }
+
+        .btn-submit-style:hover {
+          background-color: white;
+          color: maroon;
+          border: 1px solid maroon;
+        }
+
+
+        .navbar-styles {
+            background-color: white;
+            position:fixed;
+            z-index:1;
+            width: 100%;
+        }
+        #button-addon2 {
+            background-color: maroon;
+        }
+        
+        .left-menu-ads-style {
+            height: 350px;
+            
+        }
+
+        .block-title {
+            border-bottom: 2px solid maroon;
+            padding: 5px 20px;
+            border-radius: 25px;
+            font-size: 25px;
+        }
+
+        .theme-color {
+            background-color: maroon;
+            color: white;
+
+        }
+
+        .theme-color a {
+            color: white;
+            text-decoration: none;
+        }
+
+        .link-collections {
+            text-decoration: none;
+            color: black;
+        }
+
+        .link-collections:hover {
+            color: maroon;
+        }
+
+        .button-style  { 
+            color: maroon;
+            background-color: white;
+            text-decoration: none;
+            border: 1px solid white;
+        }
+
+        .button-style:hover  { 
+            
+            background-color: maroon;
+            color: white;
+        }
+
+        .header-style {
+            color:maroon;
+        }
+
+        #breadcrumb-styles a {
+          color: white;
+          text-decoration: none;
+        }
+
+
+        .accordion-button:not(.collapsed) {
+          background-color: white;
+          border: 0px solid white;
+          color: maroon;
+        }
+
+        ul, a {
+          text-decoration: none;
+          list-style: none;
+          color: maroon;
+        }
+
+
+        ul:hover a:hover {
+          color: black;
+        }
+
+
+        .shop-account-style {
+          color: black;
+          text-decoration: none;
+        }
+
+        .shop-account-style:hover {
+          color: maroon;
+        }
+
+        .footer-style a:hover {
+          color: maroon;
+          text-decoration: none;
+        }
+
+        .btn-submit-style {
+          background-color: maroon;
+          color: white;
+
+        }
+
+        .btn-submit-style:hover {
+          background-color: white;
+          color: maroon;
+          border: 1px solid maroon;
+        }
+
+        .navbar-styles {
+            background-color: white;
+            position:fixed;
+            z-index:1;
+            width: 100%;
+        }
+
+        .spacer-div {
+            margin-top: 200px;
+        }
+        
+        .left-menu-ads-style {
+            height: 350px;
+            
+        }
+
+        .block-title {
+            border-bottom: 2px solid maroon;
+            padding: 5px 20px;
+            border-radius: 25px;
+            font-size: 25px;
+        }
+
+        .theme-color {
+            background-color: maroon;
+            color: white;
+
+        }
+
+        .theme-color a {
+            color: white;
+            text-decoration: none;
+        }
+
+        .link-collections {
+            text-decoration: none;
+            color: black;
+        }
+
+        .link-collections:hover {
+            color: maroon;
+        }
+
+        .button-style  { 
+            color: maroon;
+            background-color: white;
+            text-decoration: none;
+        }
+
+        .button-style:hover  { 
+            background-color: maroon;
+            color: white;
+        }
+
+
+        .header-style {
+            color:maroon;
+        }
+
+        ul {
+          list-style-type: none; /* Remove bullets */
+          padding: 0; /* Remove padding */
+          margin: 0; /* Remove margins */
+        }
+
+        .no-accordion-button::after {
+          content: none;
+        }
+
+        .shop-account-style {
+          color: black;
+          text-decoration: none;
+        }
+
+        .shop-account-style:hover {
+          color: maroon;
+        }
+
+        .footer-style a:hover {
+          color: maroon;
+          text-decoration: none;
+        }
+
+        .btn-submit-style {
+          background-color: maroon;
+          color: white;
+
+        }
+
+        .btn-submit-style:hover {
+          background-color: white;
+          color: maroon;
+          border: 1px solid maroon;
+        }
+
+        .navbar-styles {
+            background-color: white;
+            position:fixed;
+            z-index:1;
+            width: 100%;
+        }
+        #button-addon2 {
+            background-color: maroon;
+        }
+        
+        .left-menu-ads-style {
+            height: 350px;
+            
+        }
+
+        .block-title {
+            border-bottom: 2px solid maroon;
+            padding: 5px 20px;
+            border-radius: 25px;
+            font-size: 25px;
+        }
+
+        .theme-color {
+            background-color: maroon;
+            color: white;
+
+        }
+
+        .theme-color a {
+            color: white;
+            text-decoration: none;
+        }
+
+        .link-collections {
+            text-decoration: none;
+            color: black;
+        }
+
+        .link-collections:hover {
+            color: maroon;
+        }
+
+        .button-style  { 
+            color: maroon;
+            background-color: white;
+            text-decoration: none;
+            border: 1px solid white;
+        }
+
+        .button-style:hover  { 
+            
+            background-color: maroon;
+            color: white;
+        }
+
+        .header-style {
+            color:maroon;
+        }
+
+        #breadcrumb-styles a {
+          color: white;
+          text-decoration: none;
+        }
+
+
+        .accordion-button:not(.collapsed) {
+          background-color: white;
+          border: 0px solid white;
+          color: maroon;
+        }
+
+
+        .shop-account-style {
+          color: black;
+          text-decoration: none;
+        }
+
+        .shop-account-style:hover {
+          color: maroon;
+        }
+
+        .footer-style a:hover {
+          color: maroon;
+          text-decoration: none;
+        }
+
+        .btn-submit-style {
+          background-color: maroon;
+          color: white;
+
+        }
+
+        .btn-submit-style:hover {
+          background-color: white;
+          color: maroon;
+          border: 1px solid maroon;
+        }
+
+        .navbar-styles {
+            background-color: white;
+            position:fixed;
+            z-index:1;
+            width: 100%;
+        }
+        #button-addon2 {
+            background-color: maroon;
+        }
+        
+        .left-menu-ads-style {
+            height: 350px;
+            
+        }
+
+        .block-title {
+            border-bottom: 2px solid maroon;
+            padding: 5px 20px;
+            border-radius: 25px;
+            font-size: 25px;
+        }
+
+        .theme-color {
+            background-color: maroon;
+            color: white;
+
+        }
+
+        .theme-color a {
+            color: white;
+            text-decoration: none;
+        }
+
+        .link-collections {
+            text-decoration: none;
+            color: black;
+        }
+
+        .link-collections:hover {
+            color: maroon;
+        }
+
+        .button-style  { 
+            color: maroon;
+            background-color: white;
+            text-decoration: none;
+            border: 1px solid white;
+        }
+
+        .button-style:hover  { 
+            
+            background-color: maroon;
+            color: white;
+        }
+
+        .header-style {
+            color:maroon;
+        }
+
+        #breadcrumb-styles a {
+          color: white;
+          text-decoration: none;
+        }
+
+
+        .accordion-button:not(.collapsed) {
+          background-color: white;
+          border: 0px solid white;
+          color: maroon;
+        }
+
+        .shop-account-style {
+          color: black;
+          text-decoration: none;
+        }
+
+        .shop-account-style:hover {
+          color: maroon;
+        }
+
+        .footer-style a:hover {
+          color: maroon;
+          text-decoration: none;
+        }
+
+        .btn-submit-style {
+          background-color: maroon;
+          color: white;
+
+        }
+
+        .btn-submit-style:hover {
+          background-color: white;
+          color: maroon;
+          border: 1px solid maroon;
+        }
+
+        .navbar-styles {
+            background-color: white;
+            position:fixed;
+            z-index:1;
+            width: 100%;
+        }
+        #button-addon2 {
+            background-color: maroon;
+        }
+        
+        .left-menu-ads-style {
+            height: 350px;
+            
+        }
+
+        .block-title {
+            border-bottom: 2px solid maroon;
+            padding: 5px 20px;
+            border-radius: 25px;
+            font-size: 25px;
+        }
+
+        .theme-color {
+            background-color: maroon;
+            color: white;
+
+        }
+
+        .theme-color a {
+            color: white;
+            text-decoration: none;
+        }
+
+        .link-collections {
+            text-decoration: none;
+            color: black;
+        }
+
+        .link-collections:hover {
+            color: maroon;
+        }
+
+        .button-style  { 
+            color: maroon;
+            background-color: white;
+            text-decoration: none;
+            border: 1px solid white;
+        }
+
+        .button-style:hover  { 
+            
+            background-color: maroon;
+            color: white;
+        }
+
+        .header-style {
+            color:maroon;
+        }
+
+        #breadcrumb-styles a {
+          color: white;
+          text-decoration: none;
+        }
+
+
+        .accordion-button:not(.collapsed) {
+          background-color: white;
+          border: 0px solid white;
+          color: maroon;
+        }
+
+        ul, a {
+          text-decoration: none;
+          list-style: none;
+          color: maroon;
+        }
+
+
+        ul:hover a:hover {
+          color: black;
+        }
+
+        
+        .shop-account-style {
+          color: black;
+          text-decoration: none;
+        }
+
+        .shop-account-style:hover {
+          color: maroon;
+        }
+
+        .footer-style a:hover {
+          color: maroon;
+          text-decoration: none;
+        }
+
+        .btn-submit-style {
+          background-color: maroon;
+          color: white;
+
+        }
+
+        .btn-submit-style:hover {
+          background-color: white;
+          color: maroon;
+          border: 1px solid maroon;
+        }
+
+        .navbar-styles {
+            background-color: white;
+            position:fixed;
+            z-index:1;
+            width: 100%;
+        }
+        #button-addon2 {
+            background-color: maroon;
+        }
+        
+        .left-menu-ads-style {
+            height: 350px;
+            
+        }
+
+        .block-title {
+            border-bottom: 2px solid maroon;
+            padding: 5px 20px;
+            border-radius: 25px;
+            font-size: 25px;
+        }
+
+        .theme-color {
+            background-color: maroon;
+            color: white;
+
+        }
+
+        .theme-color a {
+            color: white;
+            text-decoration: none;
+        }
+
+        .link-collections {
+            text-decoration: none;
+            color: black;
+        }
+
+        .link-collections:hover {
+            color: maroon;
+        }
+
+        .button-style  { 
+            color: maroon;
+            background-color: white;
+            text-decoration: none;
+            border: 1px solid white;
+        }
+
+        .button-style:hover  { 
+            
+            background-color: maroon;
+            color: white;
+        }
+
+        .header-style {
+            color:maroon;
+        }
+
+        #breadcrumb-styles a {
+          color: white;
+          text-decoration: none;
+        }
+
+
+        .accordion-button:not(.collapsed) {
+          background-color: white;
+          border: 0px solid white;
+          color: maroon;
+        }
+
+
+        .shop-account-style {
+          color: black;
+          text-decoration: none;
+        }
+
+        .shop-account-style:hover {
+          color: maroon;
+        }
+
+        .footer-style a:hover {
+          color: maroon;
+          text-decoration: none;
+        }
+
+        .btn-submit-style {
+          background-color: maroon;
+          color: white;
+
+        }
+
+        .btn-submit-style:hover {
+          background-color: white;
+          color: maroon;
+          border: 1px solid maroon;
+        }
+
+        .navbar-styles {
+            background-color: white;
+            position:fixed;
+            z-index:1;
+            width: 100%;
+        }
+        #button-addon2 {
+            background-color: maroon;
+        }
+        
+        .left-menu-ads-style {
+            height: 350px;
+            
+        }
+
+        .block-title {
+            border-bottom: 2px solid maroon;
+            padding: 5px 20px;
+            border-radius: 25px;
+            font-size: 25px;
+        }
+
+        .theme-color {
+            background-color: maroon;
+            color: white;
+
+        }
+
+        .theme-color a {
+            color: white;
+            text-decoration: none;
+        }
+
+        .link-collections {
+            text-decoration: none;
+            color: black;
+        }
+
+        .link-collections:hover {
+            color: maroon;
+        }
+
+        .button-style  { 
+            color: maroon;
+            background-color: white;
+            text-decoration: none;
+            border: 1px solid white;
+        }
+
+        .button-style:hover  { 
+            
+            background-color: maroon;
+            color: white;
+        }
+
+        .header-style {
+            color:maroon;
+        }
+
+        #breadcrumb-styles a {
+          color: white;
+          text-decoration: none;
+        }
+
+
+        .accordion-button:not(.collapsed) {
+          background-color: white;
+          border: 0px solid white;
+          color: maroon;
+        }
+
+        ul, a {
+          text-decoration: none;
+          list-style: none;
+          color: maroon;
+        }
+
+
+        ul:hover a:hover {
+          color: black;
+        }
+
+        
+        .shop-account-style {
+          color: black;
+          text-decoration: none;
+        }
+
+        .shop-account-style:hover {
+          color: maroon;
+        }
+
+        .footer-style a:hover {
+          color: maroon;
+          text-decoration: none;
+        }
+
+        .btn-submit-style {
+          background-color: maroon;
+          color: white;
+
+        }
+
+        .btn-submit-style:hover {
+          background-color: white;
+          color: maroon;
+          border: 1px solid maroon;
+        }
